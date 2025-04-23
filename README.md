@@ -19,9 +19,9 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 
 ## 📫 Connect With Me
-- [LinkedIn]([https://www.linkedin.com/in/ali-raza-4a3284164/])
+- [LinkedIn](https://www.linkedin.com/in/ali-raza-4a3284164/)
 - [Twitter](https://twitter.com/raza_kontakt)
-- [Portfolio]([https://your-portfolio.com](https://my-cv-b154e.web.app/))
+- [Portfolio](https://your-portfolio.com](https://my-cv-b154e.web.app/)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aliraza401&show_icons=true&theme=radical)
@@ -30,4 +30,4 @@ I'm a passionate developer who loves building innovative solutions and exploring
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza401&layout=compact&theme=radical)
 
 ---
-⭐️ From [your-username](https://github.com/your-username)Ï
+⭐️ From [your-username](https://github.com/aliraza401)Ï
